@@ -1,0 +1,102 @@
+add_team 1
+add_team 2
+add_team 3
+add_team 4
+add_team 5
+add_team 6
+add_player 10901 1 2,3,4,5,1 19 17 8 true
+add_player 20091 2 2,3,4,5,1 19 17 8 true
+add_player 30901 3 2,3,4,5,1 19 17 8 true
+add_player 40901 4 2,3,4,5,1 19 17 8 true
+add_player 50901 5 2,3,4,5,1 19 17 8 true
+add_player 109001 1 2,3,4,5,1 19 17 8 true
+add_player 209001 2 2,3,4,5,1 19 17 8 true
+add_player 300901 3 2,3,4,5,1 19 17 8 true
+add_player 400901 4 2,3,4,5,1 19 17 8 true
+add_player 500901 5 2,3,4,5,1 19 17 8 true
+add_player 110901 1 2,3,4,5,1 19 17 8 true
+add_player 129001 2 2,3,4,5,1 19 17 8 true
+add_player 139001 3 2,3,4,5,1 19 17 8 true
+add_player 149001 4 2,3,4,5,1 19 17 8 true
+add_player 159001 5 2,3,4,5,1 19 17 8 true
+add_player 1190001 1 2,3,4,5,1 19 17 8 true
+add_player 2109001 2 2,3,4,5,1 19 17 8 true
+add_player 3100901 3 2,3,4,5,1 19 17 8 true
+add_player 4019001 4 2,3,4,5,1 19 17 8 true
+add_player 5001901 5 2,3,4,5,1 19 17 8 true
+add_player 108091 1 2,3,4,5,1 19 17 8 true
+add_player 208091 2 2,3,4,5,1 19 17 8 true
+add_player 308901 3 2,3,4,5,1 19 17 8 true
+add_player 408901 4 2,3,4,5,1 19 17 8 true
+add_player 508901 5 2,3,4,5,1 19 17 8 true
+add_player 1089001 1 2,3,4,5,1 19 17 8 true
+add_player 2089001 2 2,3,4,5,1 19 17 8 true
+add_player 3098001 3 2,3,4,5,1 19 17 8 true
+add_player 4090801 4 2,3,4,5,1 19 17 8 true
+add_player 5090801 5 2,3,4,5,1 19 17 8 true
+add_player 1109801 1 2,3,4,5,1 19 17 8 true
+add_player 1209801 2 2,3,4,5,1 19 17 8 true
+add_player 1308901 3 2,3,4,5,1 19 17 8 true
+add_player 1409801 4 2,3,4,5,1 19 17 8 true
+add_player 1509801 5 2,3,4,5,1 19 17 8 true
+add_player 11098001 1 2,3,4,5,1 19 17 8 true
+add_player 21090801 2 2,3,4,5,1 19 17 8 true
+add_player 31090801 3 2,3,4,5,1 19 17 8 true
+add_player 40918001 4 2,3,4,5,1 19 17 8 true
+add_player 50809101 5 2,3,4,5,1 19 17 8 true
+add_player 1001 1 2,3,4,5,1 19 17 8 true
+add_player 2001 2 2,3,4,5,1 19 17 8 true
+add_player 3001 3 2,3,4,5,1 19 17 8 true
+add_player 4001 4 2,3,4,5,1 19 17 8 true
+add_player 5001 5 2,3,4,5,1 19 17 8 true
+add_player 10001 1 2,3,4,5,1 19 17 8 true
+add_player 20001 2 2,3,4,5,1 19 17 8 true
+add_player 30001 3 2,3,4,5,1 19 17 8 true
+add_player 40001 4 2,3,4,5,1 19 17 8 true
+add_player 50001 5 2,3,4,5,1 19 17 8 true
+add_player 11001 1 2,3,4,5,1 19 17 8 true
+add_player 12001 2 2,3,4,5,1 19 17 8 true
+add_player 13001 3 2,3,4,5,1 19 17 8 true
+add_player 14001 4 2,3,4,5,1 19 17 8 true
+add_player 15001 5 2,3,4,5,1 19 17 8 true
+add_player 110001 1 2,3,4,5,1 19 17 8 true
+add_player 210001 2 2,3,4,5,1 19 17 8 true
+add_player 310001 3 2,3,4,5,1 19 17 8 true
+add_player 401001 4 2,3,4,5,1 19 17 8 true
+add_player 500101 5 2,3,4,5,1 19 17 8 true
+add_player 10801 1 2,3,4,5,1 19 17 8 true
+add_player 20801 2 2,3,4,5,1 19 17 8 true
+add_player 30801 3 2,3,4,5,1 19 17 8 true
+add_player 40801 4 2,3,4,5,1 19 17 8 true
+add_player 50801 5 2,3,4,5,1 19 17 8 true
+add_player 108001 1 2,3,4,5,1 19 17 8 true
+add_player 208001 2 2,3,4,5,1 19 17 8 true
+add_player 308001 3 2,3,4,5,1 19 17 8 true
+add_player 400801 4 2,3,4,5,1 19 17 8 true
+add_player 500801 5 2,3,4,5,1 19 17 8 true
+add_player 110801 1 2,3,4,5,1 19 17 8 true
+add_player 120801 2 2,3,4,5,1 19 17 8 true
+add_player 130801 3 2,3,4,5,1 19 17 8 true
+add_player 140801 4 2,3,4,5,1 19 17 8 true
+add_player 150801 5 2,3,4,5,1 19 17 8 true
+add_player 1108001 1 2,3,4,5,1 19 17 8 true
+add_player 2100801 2 2,3,4,5,1 19 17 8 true
+add_player 3100801 3 2,3,4,5,1 19 17 8 true
+add_player 4018001 4 2,3,4,5,1 19 17 8 true
+add_player 5080101 5 2,3,4,5,1 19 17 8 true
+buy_team 1 2
+buy_team 3 1
+get_partial_spirit 3001
+get_partial_spirit 1001
+get_partial_spirit 2001
+buy_team 4 3
+get_partial_spirit 4001
+get_partial_spirit 3001
+get_partial_spirit 1001
+get_partial_spirit 2001
+buy_team 5 4
+get_partial_spirit 5001
+get_partial_spirit 4001
+get_partial_spirit 3001
+get_partial_spirit 1001
+get_partial_spirit 2001
